@@ -59,3 +59,28 @@ p{
 .conteudo{
     margin-top: 50px;
 }
+
+#projetos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.projeto{
+    height: 200px;
+    width: 300px;
+    border: #ce7cca solid 2px;
+    margin: 10px;
+}
+
+.projeto>img{
+    width: 100%;
+
+}
+
+.labels span {
+    color: white !important;
+    background-color: rgb(196, 160, 3);
+    border-radius: 100px;
+    padding: 2px 5px;
+}
