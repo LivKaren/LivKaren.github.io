@@ -30,7 +30,7 @@ nav li{
 
 a{
     text-decoration: none;
-    color: orange;
+    color: rgb(165, 109, 4);
 }
 a:hover{
     color: #8961b5;
@@ -38,8 +38,8 @@ a:hover{
 
 section{
     min-height: 480px;
-    background-color: #484848;
-    color: orange;
+    background-color: #c2b8b8a9;
+    color: rgba(0, 0, 0, 0.849);
     padding: 10px;
     border: 2px dotted #8961b5
 }
@@ -47,8 +47,8 @@ section{
 .comando-git{
     padding: 5px;
     font-size: 2rem;
-    border: 3px solid #ce7cca;
-    background-color: #c9c8c8;
+    border: 3px solid #ce7ccac4;
+    background-color: #e6cb3554;
     color: #484848 ;
 }
 
@@ -85,3 +85,6 @@ p{
     border-radius: 100px;
     padding: 2px 5px;
 }
+
+
+
