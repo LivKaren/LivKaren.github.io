@@ -8,7 +8,7 @@
 
 nav {
     height: 50px;
-    background-color: #484848;
+    background-color: #61cdd4;
     color: #c8c8c8;
     padding: 10px; 
     display: flex;
@@ -30,7 +30,7 @@ nav li{
 
 a{
     text-decoration: none;
-    color: rgb(165, 109, 4);
+    color: rgb(66, 70, 69);
 }
 a:hover{
     color: #8961b5;
@@ -47,8 +47,8 @@ section{
 .comando-git{
     padding: 5px;
     font-size: 2rem;
-    border: 3px solid #ce7ccac4;
-    background-color: #e6cb3554;
+    border: 3px solid #e2aee0c4;
+    background-color: #90dbd577;
     color: #484848 ;
 }
 
@@ -81,10 +81,17 @@ p{
 
 .labels span {
     color: white !important;
-    background-color: rgb(196, 160, 3);
+    background-color: rgb(189, 157, 14);
     border-radius: 100px;
     padding: 2px 5px;
 }
 
+    footer{
+        background-color:  rgba(46, 182, 216, 0.404);
+        height: 200px;
+        text-align: center;
+        font-size: 20px;
+        color: white;
+    }
 
 
